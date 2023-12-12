@@ -1,0 +1,9 @@
+numpy
+torch
+transformers
+datasets
+evaluate
+accelerate
+tqdm
+huggingface_hub
+human-eval-infilling
